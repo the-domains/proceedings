@@ -1,4 +1,3 @@
-layout_spectrum: 0.9190726461820304
 typography_spectrum: 0.8433133880607784
 color:
   brandStrength: 0.0869845668785274
@@ -11,4 +10,6 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
+layout_spectrum: 0.9190726461820304
 name: Proceedings
+title: a photo blog by marie
