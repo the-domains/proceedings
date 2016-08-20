@@ -1,0 +1,14 @@
+layout_spectrum: 0.9190726461820304
+typography_spectrum: 0.8433133880607784
+color:
+  brandStrength: 0.0869845668785274
+  lightness: 0.39302449370734394
+  saturation: 0.18589211464859545
+  rhythmicContrast: 0.5708449711091816
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: Proceedings
